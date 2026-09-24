@@ -79,13 +79,13 @@ Through this project, I gained practical experience with:
 
 Possible future improvements include:
 
-* Adding Telegram or SMS notifications
-* Adding location information to alerts
-* Improving the alert system
-* Adding a web dashboard
-* Saving detection events
-* Adding user authentication
-* Improving detection accuracy
+*Improving person detection accuracy
+*Improving alarm response time
+*Adding different alarm sounds
+*Adding adjustable detection sensitivity
+*Adding a recording feature for detected events
+*Adding automatic notifications when a person is detected
+*Adding support for multiple cameras
 
 ## 👤 Author
 
